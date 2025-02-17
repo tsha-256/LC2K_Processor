@@ -2,7 +2,7 @@ Project to implement a simple LC2K processor in SystemVerilog. Planned for FPGA 
 
 Verilog tasks:
 - [x] Implementing single cycle datapath
-- [] Implementing pipeline datapath
+- [ ] Implementing pipeline datapath
   - Hazard forwarding In Progress
 - [x] Implementing PC
 - [x] Implementing ALU
