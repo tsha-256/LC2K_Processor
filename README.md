@@ -8,11 +8,10 @@ Verilog tasks:
 - [ ] Implementing a branch predictor
 - [ ] Testing
 
-Tapeout tasks:
-- [ ] Implementing PC
-- [ ] Implementing ALU
-- [ ] Implementing Register File
-- [ ] Implementing Memory
+- [x] Implementing PC
+- [x] Implementing ALU
+- [x] Implementing Register File
+- [x] Implementing Memory
 
 
 Based primarily on descriptions from Dan Liu's course notes. 
