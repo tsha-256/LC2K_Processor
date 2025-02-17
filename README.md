@@ -1,4 +1,4 @@
-Project to implement a simple LC2K processor in SystemVerilog.
+Project to implement a simple LC2K processor in SystemVerilog. Planned for FPGA deployment.
 
 Verilog tasks:
 - [x] Implementing single cycle datapath

@@ -1,7 +1,8 @@
 //For now, this will only be datapath implementation
 //For now, this doesn't have hazard handling
+`include "sys_defs.svh"
 
-module datapath
+module datapath 
 (
     input CLK,
     input RST,
